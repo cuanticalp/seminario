@@ -1,4 +1,6 @@
 numpy==1.16.*
+cython>=0.21
+scipy>=1.0
 matplotlib==3.*
 qutip
 seaborn==0.8.1
