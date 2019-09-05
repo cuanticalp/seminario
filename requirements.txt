@@ -1,1 +1,1 @@
--e git+https://https://github.com/qutip/qutip.git
+-e git+https://github.com/qucontrol/krotov.git@master#egg=krotov
