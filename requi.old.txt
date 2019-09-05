@@ -1,7 +1,0 @@
-cython>=0.21
-numpy>=1.12
-scipy>=1.0
-qutip
-matplotlib==3.*
-seaborn==0.8.1
-pandas
