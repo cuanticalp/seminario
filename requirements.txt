@@ -1,4 +1,4 @@
-Cython>=0.21
+cython>=0.21
 numpy==1.16.*
 scipy>=1.0
 matplotlib==3.*
