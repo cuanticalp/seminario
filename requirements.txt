@@ -1,5 +1,5 @@
-numpy==1.16.*
 cython>=0.21
+numpy==1.16.*
 scipy>=1.0
 matplotlib==3.*
 qutip
