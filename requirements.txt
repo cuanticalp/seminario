@@ -1,7 +1,2 @@
-cython==0.29.13
-matplotlib==2.2.4
-numpy==1.16.4
-scipy==1.2.2
 -e git+https://github.com/quantumlib/OpenFermion@5b73977537269d8cbdb1c45a559b6af1126840f8#egg=openfermion
-qutip==4.4.1
 
