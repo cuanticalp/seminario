@@ -2,4 +2,4 @@
 
 Los notebooks de Jupyter pueden ser interactivos gracias a Binder
 
-https://hub.gke.mybinder.org/user/cuanticalp-seminario-y2ds5n69/lab
+https://hub.gke.mybinder.org/user/cuanticalp-seminario-duhy3u97/lab
