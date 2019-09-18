@@ -6,6 +6,11 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
 
+$H=\sum_{i\; {\rm par}}\! B(s^z_{i-1}+s^z_{i})-\sum_{\mu}J_\mu(s_{i-1}^\mu s_{i}^\mu+\alpha s_{i}^\mu s_{i+1}^\mu)$
+
+$$H=\sum_{i\; {\rm par}}\! B(s^z_{i-1}+s^z_{i})-\sum_{\mu}J_\mu(s_{i-1}^\mu s_{i}^\mu+\alpha s_{i}^\mu s_{i+1}^\mu)$$
+
+
 There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
