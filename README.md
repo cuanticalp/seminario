@@ -4,3 +4,11 @@
 Los notebooks de Jupyter pueden ser interactivos gracias a Binder
 
 https://mybinder.org/v2/gh/cuanticalp/seminario/master
+
+# Cursos relacionados:
+- [Teach Me Quantum](https://github.com/msramalho/Teach-Me-Quantum)
+
+
+- [Linear Algebra for Quantum Computing](https://github.com/The-Singularity-Research/linear_algebra_for_quantum_computing)
+
+- [Quantum Machine Learning](https://github.com/qosf/qml-mooc)
