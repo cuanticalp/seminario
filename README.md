@@ -1,5 +1,5 @@
 ![quantum](/img/quantum.jpg)
-# Seminario de Mecánica Cuántica 
+# Seminario de Mecánica Cuántica
 
 Este el repository del curso de información cuántica de la Universidad Nacional de La Plata.
 
@@ -8,7 +8,7 @@ Este el repository del curso de información cuántica de la Universidad Naciona
 
 también las pueden correr en [Colab](https://colab.research.google.com/)
 
-* En la carpeta [Mathematica](/Mathematica)) hay notebooks realizadas con el Software Mathematica de Wolfram.
+* En la carpeta [Mathematica](/Mathematica) hay notebooks realizadas con el Software Mathematica de Wolfram.
 
 * La carpeta [Prácticas](/Prácticas) está destinada a completarse por el material generado entre todos a medida se vaya avanzando con las prácticas.
 
