@@ -1,5 +1,5 @@
 ![quantum](/img/quantum.jpg)
-# Seminario de Mecánica Cuántica [![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cuanticalp/seminario/master)
+# Seminario de Mecánica Cuántica 
 
 Este el repository del curso de información cuántica de la Universidad Nacional de La Plata.
 
