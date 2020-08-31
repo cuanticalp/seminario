@@ -12,6 +12,7 @@ también las pueden correr en [Colab](https://colab.research.google.com/)
 
 * La carpeta [Prácticas](/Prácticas) está destinada a completarse por el material generado entre todos a medida se vaya avanzando con las prácticas.
 
+* La carpeta [Biblio](/Biblio) tiene bibliografía.
 
 # Guía de Github
 
