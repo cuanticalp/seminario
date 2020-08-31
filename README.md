@@ -3,13 +3,12 @@
 
 Este el repository del curso de información cuántica de la Universidad Nacional de La Plata.
 
-* Los notebooks de Jupyter están en [Jupyter](/Jupyter) y pueden ser interactivos gracias a Binder
+* Los notebooks de Jupyter están en [Jupyter](/Jupyter) y pueden ser interactivos gracias a [![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cuanticalp/seminario/master
+)
 
-https://mybinder.org/v2/gh/cuanticalp/seminario/master
+también las pueden correr en [Colab](https://colab.research.google.com/)
 
-también las pueden correr en https://colab.research.google.com/
-
-* En la carpeta ([Mathematica](/Mathematica)) hay notebooks realizadas con el Software Mathematica de Wolfram.
+* En la carpeta [Mathematica](/Mathematica)) hay notebooks realizadas con el Software Mathematica de Wolfram.
 
 * La carpeta [Prácticas](/Prácticas) está destinada a completarse por el material generado entre todos a medida se vaya avanzando con las prácticas.
 
