@@ -159,8 +159,8 @@
     \[ e^{\mathds{1} \otimes A} = \sum_{n = 0}^\infty \frac{(\mathds{1} \otimes A)^n}{n!} = \sum_{n = 0}^\infty \frac{\mathds{1} \otimes A^n}{n!} = \mathds{1} \otimes \left( \sum_{n = 0}^\infty \frac{A^n}{n!} \right) = \mathds{1} \otimes e^A. \]
     De forma análoga se puede demostrar que $e^{A \otimes \mathds{1}} = e^A \otimes \mathds{1}$. Por lo tanto, el problema se reduce a obtener $e^M = R_{\vu{n}}(\theta)$ y $e^N = R_{\vu{m}}(\phi)$, y expresarlo en la forma de un operador de evolución temporal. Por lo estudiado en II.1, sabemos que $R_{\vu{n}}(\theta) = e^{-i \frac{\theta}{2} \vu{n} \vdot \vb{\sigma}}$. Utilizando la definición del operador de Spin $\vb{S} = \frac{\hbar}{2} \vb{\sigma}$, entonces:
     \[ R_{\vu{n}}(\theta) = e^{-i \frac{\theta}{2} \vu{n} \vdot \vb{\sigma}} = e^{-i \theta \vu{n} \vdot \frac{\vb{S}}{\hbar}} = e^{\frac{-i H_{\theta \vu{n}} t}{\hbar}}, \]
-    con $H_{\theta \vu{n}} = \theta \vu{n} \vdot \vb{S} = \frac{\hbar}{2} \vu{n} \vdot \vb{\sigma}$, que corresponde al hamiltoniano de Spin para un electrón inmerso en un campo magnético $\vb{B} = \theta \vu{n}$. El tiempo, en este caso, corresponderá a $t = 1$. Para $R_{\vu{m}}(\phi)$ el resultado es equivalente, obteniendo $H_{\phi \vu{m}} = \phi \vu{m} \vdot \vb{S} = \frac{\hbar}{2} \vu{n} \vdot \vb{\sigma}$. Por lo tanto,
-    \[ H = H_{\theta\vu{n}} \otimes \mathds{1} + \mathds{1} \otimes H_{\phi\vu{m}} = \frac{\hbar}{2} \theta \vu{n} \vdot \vb{\sigma} \otimes \mathds{1} + \mathds{1} \otimes \frac{\hbar}{2} \phi \vu{m} \vdot \vb{\sigma}, \quad \quad t = 1. \]
+    con $H_{\theta \vu{n}} = \frac{g \mu_B}{\hbar} \theta \vu{n} \vdot \vb{S} = \frac{g \mu_B}{2} \theta \vu{n} \vdot \vb{\sigma}$, que corresponde al hamiltoniano de Spin para un electrón inmerso en un campo magnético $\vb{B} = \theta \vu{n}$. El tiempo, en este caso, corresponderá a $t = \frac{\hbar}{g \mu_B}$. Para $R_{\vu{m}}(\phi)$ el resultado es equivalente, obteniendo $H_{\phi \vu{m}} = \phi \vu{m} \vdot \vb{S} = \frac{\hbar}{2} \vu{n} \vdot \vb{\sigma}$. Por lo tanto,
+    \[ H = H_{\theta\vu{n}} \otimes \mathds{1} + \mathds{1} \otimes H_{\phi\vu{m}} = \frac{g \mu_B}{2} \theta \vu{n} \vdot \vb{\sigma} \otimes \mathds{1} + \mathds{1} \otimes \frac{g \mu_B}{2} \phi \vu{m} \vdot \vb{\sigma}, \quad \quad t = \frac{g \mu_B}{\hbar}. \]
     Si se desea realizar la operación en un tiempo $t = t_0$, basta solo con escalar los campos magnéticos $\vb{B}_A = \theta \vu{n} \to \frac{\theta}{t_0} \vu{n}$ y $\vb{B}_B = \phi \vu{m} \to \frac{\phi}{t_0} \vu{m}$.
     
     
@@ -224,7 +224,7 @@
     La compuerta $U_{CNOT}$ podrá ser entonces realizada por
     \[ U_{CX} = (\mathds{1} \otimes H_{ad} ) U_Z (\mathds{1} \otimes H_{ad}), \]
     donde $H_{ad}$ es el operador de la compuerta Hadamard, con hamiltoniano 
-    \[ H_{Had} = \mathds{1} \otimes \frac{\hbar \pi}{2 \sqrt{2}} (\sigma_x + \sigma_z). \]
+    \[ H_{Had} = \mathds{1} \otimes \frac{g \mu_B \pi}{2 \sqrt{2}} (\sigma_x + \sigma_z). \]
     
 \end{enumerate}
 
